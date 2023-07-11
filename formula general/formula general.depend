@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1552337975 source:c:\users\s331c\documents\programacion c++\formula general\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+	<conio.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1552273718 source:c:\users\s331c\documents\programacion c++\tareal\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+

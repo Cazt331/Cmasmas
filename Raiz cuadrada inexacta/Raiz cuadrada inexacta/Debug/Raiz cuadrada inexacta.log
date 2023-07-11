@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\s331c\documents\programacion\visual studio\c++\raiz cuadrada inexacta\raiz cuadrada inexacta\source.cpp(6): warning C4101: 'cont': variable local sin referencia
+c:\users\s331c\documents\programacion\visual studio\c++\raiz cuadrada inexacta\raiz cuadrada inexacta\source.cpp(6): warning C4101: 'n': variable local sin referencia
+  Raiz cuadrada inexacta.vcxproj -> C:\Users\s331c\Documents\PROGRAMACION\VISUAL STUDIO\C++\Raiz cuadrada inexacta\Debug\Raiz cuadrada inexacta.exe

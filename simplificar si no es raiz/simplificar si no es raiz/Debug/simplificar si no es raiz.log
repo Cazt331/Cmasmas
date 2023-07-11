@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\s331c\documents\programacion\visual studio\c++\simplificar si no es raiz\simplificar si no es raiz\source.cpp(11): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\s331c\documents\programacion\visual studio\c++\simplificar si no es raiz\simplificar si no es raiz\source.cpp(12): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\s331c\documents\programacion\visual studio\c++\simplificar si no es raiz\simplificar si no es raiz\source.cpp(15): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\s331c\documents\programacion\visual studio\c++\simplificar si no es raiz\simplificar si no es raiz\source.cpp(16): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\s331c\documents\programacion\visual studio\c++\simplificar si no es raiz\simplificar si no es raiz\source.cpp(16): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\s331c\documents\programacion\visual studio\c++\simplificar si no es raiz\simplificar si no es raiz\source.cpp(25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\s331c\documents\programacion\visual studio\c++\simplificar si no es raiz\simplificar si no es raiz\source.cpp(26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  simplificar si no es raiz.vcxproj -> C:\Users\s331c\Documents\PROGRAMACION\VISUAL STUDIO\C++\simplificar si no es raiz\Debug\simplificar si no es raiz.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\s331c\Documents\PROGRAMACION\VISUAL STUDIO\C++\Formula General 2.0\Formula General 2.0\Source.cpp(109,9): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\s331c\Documents\PROGRAMACION\VISUAL STUDIO\C++\Formula General 2.0\Formula General 2.0\Source.cpp(110,6): warning C4244:  '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\s331c\Documents\PROGRAMACION\VISUAL STUDIO\C++\Formula General 2.0\Formula General 2.0\Source.cpp(115,3): warning C4551:  la llamada a la función no tiene lista de argumentos
+  Formula General 2.0.vcxproj -> C:\Users\s331c\Documents\PROGRAMACION\VISUAL STUDIO\C++\Formula General 2.0\Debug\Formula General 2.0.exe

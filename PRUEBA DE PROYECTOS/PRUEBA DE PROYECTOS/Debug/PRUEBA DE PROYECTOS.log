@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\s331c\documents\programacion\visual studio\c++\prueba de proyectos\prueba de proyectos\source.cpp(187): warning C4244: '=': conversión de 'std::streamoff' a 'long'; posible pérdida de datos
+c:\users\s331c\documents\programacion\visual studio\c++\prueba de proyectos\prueba de proyectos\source.cpp(202): warning C4101: 'pos': variable local sin referencia
+c:\users\s331c\documents\programacion\visual studio\c++\prueba de proyectos\prueba de proyectos\source.cpp(223): warning C4101: 'cuenta': variable local sin referencia
+c:\users\s331c\documents\programacion\visual studio\c++\prueba de proyectos\prueba de proyectos\source.cpp(300): warning C4101: 'cuenta': variable local sin referencia
+c:\users\s331c\documents\programacion\visual studio\c++\prueba de proyectos\prueba de proyectos\source.cpp(361): warning C4101: 's': variable local sin referencia
+  PRUEBA DE PROYECTOS.vcxproj -> C:\Users\s331c\Documents\PROGRAMACION\VISUAL STUDIO\C++\PRUEBA DE PROYECTOS\Debug\PRUEBA DE PROYECTOS.exe

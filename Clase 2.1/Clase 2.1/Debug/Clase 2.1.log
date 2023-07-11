@@ -1,0 +1,3 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: sÝmbolo externo "public: void __thiscall fraccion::mcd(class fraccion,class fraccion)" (?mcd@fraccion@@QAEXV1@0@Z) sin resolver al que se hace referencia en la funci¾n _main
+C:\Users\s331c\Documents\PROGRAMACION\VISUAL STUDIO\C++\Clase 2.1\Debug\Clase 2.1.exe : fatal error LNK1120: 1 externos sin resolver

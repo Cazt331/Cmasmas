@@ -1,0 +1,37 @@
+﻿  Source.cpp
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(19): error C2535: 'Grupo::Grupo(void)': función miembro ya definida o declarada
+  c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(14): note: vea la declaración de 'Grupo::Grupo'
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(23): error C2535: 'Grupo::Grupo(int)': función miembro ya definida o declarada
+  c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(15): note: vea la declaración de 'Grupo::Grupo'
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(27): error C2535: 'void Grupo::reset(void)': función miembro ya definida o declarada
+  c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(16): note: vea la declaración de 'Grupo::reset'
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(41): warning C4305: 'argumento': truncamiento de 'int' a '_Elem'
+          with
+          [
+              _Elem=char
+          ]
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(41): warning C4309: 'argumento': truncamiento de valor constante
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(44): error C2562: 'Grupo::leer': función void' que devuelve un valor
+  c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(36): note: vea la declaración de 'Grupo::leer'
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(46): error C2562: 'Grupo::leer': función void' que devuelve un valor
+  c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(36): note: vea la declaración de 'Grupo::leer'
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(53): error C2039: 'libera': no es un miembro de 'Grupo'
+  c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(10): note: vea la declaración de 'Grupo'
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(54): error C2065: 'grupo': identificador no declarado
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(54): error C2541: 'delete': no se pueden eliminar objetos que no sean punteros
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(56): error C2511: 'void Grupo::ver(void)': la función miembro sobrecargada no se ha encontrado en 'Grupo'
+  c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(10): note: vea la declaración de 'Grupo'
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(57): error C2597: referencia no válida a miembro no static 'Grupo::n'
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(57): error C3867: 'Grupo::n': sintaxis no estándar; utilice '&' para crear un puntero al miembro
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(57): error C2568: '<': no se puede resolver la sobrecarga de funciones
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(58): error C2597: referencia no válida a miembro no static 'Grupo::grupo'
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(58): error C3867: 'Grupo::grupo': sintaxis no estándar; utilice '&' para crear un puntero al miembro
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(58): error C2109: el subíndice requiere una matriz o tipo de puntero
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(59): error C2352: 'Grupo::ver': llamada no válida de función miembro no estática
+  c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(49): note: vea la declaración de 'Grupo::ver'
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(64): error C3861: 'Grupo_2AM5': no se encontró el identificador
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(65): error C3688: sufijo literal no válido 'AM5'; no se encontró el operador literal o la plantilla de operador literal 'operator ""AM5'
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(66): error C3688: sufijo literal no válido 'AM5'; no se encontró el operador literal o la plantilla de operador literal 'operator ""AM5'
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(67): error C3688: sufijo literal no válido 'AM5'; no se encontró el operador literal o la plantilla de operador literal 'operator ""AM5'
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(68): error C3688: sufijo literal no válido 'AM5'; no se encontró el operador literal o la plantilla de operador literal 'operator ""AM5'
+c:\users\s331c\documents\visual studio\c++\profe1\profe1\source.cpp(69): error C3688: sufijo literal no válido 'AM5'; no se encontró el operador literal o la plantilla de operador literal 'operator ""AM5'
